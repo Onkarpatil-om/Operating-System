@@ -1,6 +1,6 @@
 		Assignment no 1
 	name:Onkar Patil
-	Roll No:200240320070
+	
 ================================================================================================================
 
 Q1. Explore the following commands with various options, refer man pages for 
