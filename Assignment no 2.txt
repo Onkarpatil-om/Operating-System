@@ -1,6 +1,6 @@
 		Assignment No 2
 	Name:Onkar Patil
-	Roll No:200240320070
+	
 ==============================================================================================================
 1. Write a script to create 10 directories, say a1,a2,...,a10
 Ans=>
