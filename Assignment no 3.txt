@@ -1,6 +1,6 @@
 		Assignment no 3
 		Name:Onkar Patil
-		Roll No:200240320070
+		
 =================================================================================================
 1.	Parent and child process 
 Write a C/CPP program to create a child process. Child should print its pid and its parent’s pid and should exit by printing message as “Child Exiting …”. Parent should print its pid and should exit by printing message as “Parent Exiting ..”. 
